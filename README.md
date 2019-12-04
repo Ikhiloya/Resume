@@ -66,16 +66,6 @@ University of Port Harcourt, Choba, Rivers State, Nigeria.
 - [Android Development For Beginners Course ALC powered by Andela, Google and Udacity](https://storage.cloud.google.com/open-cert.appspot.com/alc/sample/certs/Ikhiloya%20Imokhai_9f5f85df-9caf-4df0-ab76-2762fcee2994.pdf)
 
 
-## Articles
-- [Android Room Persistence Library: Relations in a Nested One-To-Many Relationship](https://medium.com/swlh/android-room-persistence-library-relations-in-a-nested-one-to-many-relationship-f2fe21c9e1ad)
-- [OkHttp Interceptors with Retrofit](https://medium.com/swlh/okhttp-interceptors-with-retrofit-2dcc322cc3f3)
-- [Periodic Tasks with Android WorkManager](https://medium.com/swlh/periodic-tasks-with-android-workmanager-c901dd9ba7bc)
-- [Android Google Places AutoComplete Feature-How to add it to your android app](https://medium.com/skillhive/android-google-places-autocomplete-feature-bb3064308f05)
-- [Internationalization in Spring Boot](https://medium.com/skillhive/internalization-in-spring-boot-22f4fa82f132)
-- [How To Retrieve a Parent Field From a Child Entity in a One To Many Bidirectional JPA Relationship in Spring Boot](https://medium.com/skillhive/how-to-retrieve-a-parent-field-from-a-child-entity-in-a-one-to-many-bidirectional-jpa-relationship-4b3cd707bfb7)
-- [Developing RESTful web service using Spring Boot, Spring Data JPA and Oracle Database](https://medium.com/skillhive/spring-boot-spring-data-jpa-and-oracle-database-c4af89f727e0)
-- [Integrating Paystack Payment on Android Application](https://medium.com/@ikhiloyaimokhai/integrating-paystack-payment-on-android-application-3eec3a7c0bbf)
-
 ## Open Source Contributions
 [Open Source Contributor on Paystack Android SDK](https://github.com/PaystackHQ/paystack-android)
 
@@ -88,8 +78,20 @@ This project currently has 17 stars, 18 forks and two contributors on [github](h
 [Android Spinner Library for states, capitals and local government areas in Nigeria](https://github.com/Ikhiloya/NigeriaStatesAndLGAs)
 - An android library that lists all states and capitals in Nigeria and their respective Local Government Areas. This is particularly useful in setting up dependent android spinners for both states and their respective local government areas.
 
+Writer on [Medium](https://medium.com/@ikhiloyaimokhai)
+- A platform where I share my knowledge about software development with the aim of helping other developers. 
+  My articles have thus far garnered over 100 thousand views. 
 
 
+## Articles
+- [Android Room Persistence Library: Relations in a Nested One-To-Many Relationship](https://medium.com/swlh/android-room-persistence-library-relations-in-a-nested-one-to-many-relationship-f2fe21c9e1ad)
+- [OkHttp Interceptors with Retrofit](https://medium.com/swlh/okhttp-interceptors-with-retrofit-2dcc322cc3f3)
+- [Periodic Tasks with Android WorkManager](https://medium.com/swlh/periodic-tasks-with-android-workmanager-c901dd9ba7bc)
+- [Android Google Places AutoComplete Feature-How to add it to your android app](https://medium.com/skillhive/android-google-places-autocomplete-feature-bb3064308f05)
+- [Internationalization in Spring Boot](https://medium.com/skillhive/internalization-in-spring-boot-22f4fa82f132)
+- [How To Retrieve a Parent Field From a Child Entity in a One To Many Bidirectional JPA Relationship in Spring Boot](https://medium.com/skillhive/how-to-retrieve-a-parent-field-from-a-child-entity-in-a-one-to-many-bidirectional-jpa-relationship-4b3cd707bfb7)
+- [Developing RESTful web service using Spring Boot, Spring Data JPA and Oracle Database](https://medium.com/skillhive/spring-boot-spring-data-jpa-and-oracle-database-c4af89f727e0)
+- [Integrating Paystack Payment on Android Application](https://medium.com/@ikhiloyaimokhai/integrating-paystack-payment-on-android-application-3eec3a7c0bbf)
 
 
 
