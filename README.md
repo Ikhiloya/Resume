@@ -6,7 +6,8 @@
 
 
 ## Objective
-Software developer whose aim is to apply my strong technical and practical-oriented skills garnered over time in different facets of software development lifecycle to deploy cutting-edge applications within set timeline. I am confident that with a competent agile team, my aim would be achieved. My experience in various roles has greatly honed my skills as I have been involved in design, development, testing and maintaining of mobile and enterprise software applications. I do hope to be involved in exciting and challenging projects that will harness my skills in line with latest technologies and industry standards.
+Software developer whose aim is to apply my technical skills garnered over time in different facets of software development lifecycle to deploy cutting-edge applications. I am confident that with a competent agile team, my aim would be achieved.
+I do hope to be involved in exciting and challenging projects that will harness my skills in line with latest technologies and industry standards.
 
 
 ### Programming Languages and Frameworks
