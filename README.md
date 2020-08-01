@@ -18,6 +18,9 @@ MySQL, SQLite, OracleDb, RoomDb,Firebase, Git, Gitlab, Github, Slack, Jira, Trel
 
 ## Profesional Experience
 ##### Junior Software Developer, Ecobank Transnational Incorporated. January 2019 till date.
+- Integration of Ecobank Rapid Transfer with Ant Financial of Alibaba Group.
+Exposed core services as secured REST APIs.
+
 - Third Party Payment Integration for the Bank’s channels service for Remitances.
 Integrated Osun state government remmittances to the bank's collection channel
 
@@ -26,7 +29,7 @@ Integrated Osun state government remmittances to the bank's collection channel
   XpressCash, Cheque Request, Name inquiry, Account Balance and Mini Statement
   Tech stack: Java 8, Oracle PLSQL, Spring Framework, Spring Security
 
-- Ecobank Rapid Transfer sub-agency module with over $5M monthly transactions.
+- Ecobank Rapid Transfer sub-agency module with over $500k monthly transactions.
   Worked on the Reporting module and fixes for Ecobank Rapid Transfer Sub Agency platform
   Tech stack: Html, JSP,Java 8, Oracle PLSQL, Spring MVC
   
@@ -85,6 +88,10 @@ Writer on [Medium](https://medium.com/@ikhiloyaimokhai)
 
 
 ## Articles
+- [Spring Boot with Firebase Storage](https://medium.com/analytics-vidhya/spring-boot-with-firebase-storage-73f574af8c4)
+- [Extending Android WorkManager for Dependent Periodic Tasks](https://medium.com/swlh/extending-android-workmanager-for-dependent-periodic-tasks-7b14ab440d0c)
+- [Application of The Strategy Design Pattern](https://blog.usejournal.com/practical-application-of-the-strategy-design-pattern-dbf50b2952ce)
+- [Spring boot JWT Authentication and authorization- A Review](https://medium.com/@ikhiloyaimokhai/spring-boot-jwt-authentication-and-authorization-an-opinionated-view-70d595fcef42)
 - [Android Room Persistence Library: Relations in a Nested One-To-Many Relationship](https://medium.com/swlh/android-room-persistence-library-relations-in-a-nested-one-to-many-relationship-f2fe21c9e1ad)
 - [OkHttp Interceptors with Retrofit](https://medium.com/swlh/okhttp-interceptors-with-retrofit-2dcc322cc3f3)
 - [Periodic Tasks with Android WorkManager](https://medium.com/swlh/periodic-tasks-with-android-workmanager-c901dd9ba7bc)
