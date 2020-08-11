@@ -29,7 +29,7 @@ Integrated Osun state government remmittances to the bank's collection channel
   XpressCash, Cheque Request, Name inquiry, Account Balance and Mini Statement
   Tech stack: Java 8, Oracle PLSQL, Spring Framework, Spring Security
 
-- Ecobank Rapid Transfer sub-agency module with over $500k monthly transactions.
+- Ecobank Rapid Transfer sub-agency module.
   Worked on the Reporting module and fixes for Ecobank Rapid Transfer Sub Agency platform
   Tech stack: Html, JSP,Java 8, Oracle PLSQL, Spring MVC
   
